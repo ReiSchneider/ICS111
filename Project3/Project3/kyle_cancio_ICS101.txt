@@ -1,0 +1,17 @@
+ICS101 Grades
+
+Grade in History (/100): 1.00
+Grade in SW1 (/10): 10.00
+Grade in Computer App (/20): 5.00
+Grade in Collage (/100): 1.00
+Grade in Quiz1 (/60): 1.67
+Grade in Sw2 (/20): 5.00
+Grade in Quiz2 (/60): 1.67
+Grade in Quiz2 Retake (/40): 2.50
+Grade in Quiz3 (/100): 1.00
+Grade in Prelim Plus: 1.00
+Grade in Quiz4 (/40): 2.50
+Grade in Quiz4 Retake (/40): 2.50
+Grade in Prelim Exam (/100): 2.00
+Grade in Recitation (/100): 1.00
+Your Prelim Grade is: 2.29

@@ -1,0 +1,22 @@
+ICS111 Grades
+
+Ex1 grade: 7.00
+Ex2 grade: 6.00
+Ex3 grade: 4.50
+Ex4 grade: 5.50
+Ex5 grade: 5.00
+Ex6 grade: 4.50
+Lab Prelim Grade: 22.67
+Lab Grade: 22.07
+
+Quiz1 grade: 13.00
+Quiz2 grade: 19.00
+Quiz3 grade: 16.00
+Quiz4 grade: 16.00
+Quiz5 grade: 14.00
+Lecture Prelim Grade: 30.50
+Lecture Grade: 39.57
+
+Labgrade: 22.07
+Lecgrade: 39.57
+Your Prelim Course Grade is: 61.64
